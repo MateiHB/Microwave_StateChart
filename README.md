@@ -1,6 +1,10 @@
 # Microwave StateChart
 
-This was an assignment for the *Software analysis and design* class. For this task, we were instructed to build the Statechart diagram of a working microwave using Yakindu.
+<pre>
+  This was an assignment for the *Software analysis and design* class. 
+</pre>
+
+For this task, we were instructed to build the Statechart diagram of a working microwave using Yakindu.
 
 <p align="center">
   <img height="300" src="images/microwave.png">
